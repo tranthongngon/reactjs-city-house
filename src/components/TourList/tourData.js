@@ -30,5 +30,37 @@ export const tourData = [
     name: "tokyo sushi tour",
     info:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 5,
+    city: "Berlin",
+    img: "./img/Gremany.jpg",
+    name: "Berlin sushi tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 6,
+    city: "Moskva",
+    img: "./img/russia.jpg",
+    name: "Moskva sushi tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 7,
+    city: "Rome",
+    img: "./img/italy.jpg",
+    name: "Rome sushi tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 8,
+    city: "Amsterdam",
+    img: "./img/holland.jpg",
+    name: "Amsterdam sushi tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
   }
 ];

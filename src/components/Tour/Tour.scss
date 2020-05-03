@@ -2,15 +2,22 @@
     background:#ececec;
     border-radius: 0.8rem;
     margin: 1rem 0;
+    overflow: hidden;
     img{
         width: 100%;
         border-top-left-radius: 0.8rem;
         border-top-right-radius: 0.8rem;
         display: block;
+        transition: 0.5s;
     }
 }
 .img-container{
     position: relative;
+    transition:0.5s ;
+    overflow: hidden;
+}
+.img-container:hover img{
+    transform: scale(1.2);
 }
 .close-btn{
     position: absolute;
